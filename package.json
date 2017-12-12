@@ -2,7 +2,7 @@
   "name": "constructor_hangman",
   "version": "1.0.0",
   "description": "constructor_hangman",
-  "main": "index.js",
+  "main": "main.js",
   "dependencies": {
     "inquirer": "^4.0.1"
   },
